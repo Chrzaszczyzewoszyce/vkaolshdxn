@@ -1,0 +1,4 @@
+- pipeline: "vgehccivlx"
+  trigger_mode: "ON_EVERY_PUSH"
+  ref_type: "PULL_REQUEST"
+  ref_name: "pull/3"
