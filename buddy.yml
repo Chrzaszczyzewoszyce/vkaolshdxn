@@ -1,6 +1,11 @@
-- pipeline: "gkbsrulrxr"
+- pipeline: "hsqtsfhgsj"
   trigger_mode: "MANUAL"
   ref_type: "NONE"
-  trigger_condition: "SUCCESS_PIPELINE"
-  trigger_project_name: "vkaolshdxn"
-  trigger_pipeline_name: "ktehyvhuub"
+  trigger_condition: "DAY"
+  zone_id: "Europe/Warsaw"
+  trigger_hours:
+  - 4
+  - 18
+  trigger_days:
+  - 4
+  - 7
